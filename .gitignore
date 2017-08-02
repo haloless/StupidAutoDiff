@@ -87,3 +87,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Compiled c stuff
+*.exe
+*.o
+*.dll
+
+
+
+
+
+
+
+
